@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "964152886946",
+    "project_id": "fir-instgram-ui",
+    "storage_bucket": "fir-instgram-ui.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:964152886946:android:9e8da4d75488574aec39fb",
+        "android_client_info": {
+          "package_name": "com.pdp.instagram_firebase_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "964152886946-3fko6c8vj8vc7eqeqsrhhdsqra9psno9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiF5alvt9jSgQEPJcd_PCgftTVyjkpDnM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "964152886946-3fko6c8vj8vc7eqeqsrhhdsqra9psno9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
